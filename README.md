@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @auroraug
 - 👀 I’m interested in block chain
-- 🌱 I’m currently learning smart contract,the underlying principles of Ethereum and Bitcoin and create my private chain
+- 🌱 I’m currently learning smart contract,basic cryptography,the underlying principles of Ethereum & Bitcoin and create my private chain
 - 💞️ I’m looking to collaborate on web3.0 project
 - 📫 How to reach me twitter：@aurora_ug
 
